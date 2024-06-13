@@ -2,10 +2,11 @@
 ## 5.1 Arithmetic Operators
 AL includes standard arithmetic operators for performing mathematical calculations:
 
-+ (addition)
-- (subtraction)
-* (multiplication)
-/ (division)
+- `+` (addition)
+- `-` (subtraction)
+- `*` (multiplication)
+- `/` (division)
+
 Example:
 ```al
 var

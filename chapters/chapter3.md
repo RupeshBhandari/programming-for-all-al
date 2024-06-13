@@ -8,7 +8,7 @@ AL syntax is similar to other modern programming languages, with clear structure
 - Table Objects: Define data structures.
 - Page Objects: Define user interfaces.
 - Codeunit Objects: Define business logic and procedures.
-- 
+
 ## Running and Debugging AL Code in Business Central
 To run your AL code:
 

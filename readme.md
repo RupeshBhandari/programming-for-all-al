@@ -4,24 +4,35 @@ Welcome to "Programming for All: AL Edition" your comprehensive guide to masteri
 
 ## Table of Contents
 
+### Part I: Introduction to AL
 - [Chapter 1: Understanding Application Language (AL)](chapters/chapter1.md)
 - [Chapter 2: Setting Up Your AL Development Environment](chapters/chapter2.md)
 - [Chapter 3: First Steps with AL](chapters/chapter3.md)
+
+### Part II: Core Concepts of AL
 - [Chapter 4: Data Types and Variables in AL](chapters/chapter4.md)
 - [Chapter 5: Operators and Expressions](chapters/chapter5.md)
 - [Chapter 6: Control Structures](chapters/chapter6.md)
+
+### Part III: AL for Business Central Development
 - [Chapter 7: Creating and Managing Tables](chapters/chapter7.md)
 - [Chapter 8: Designing Pages and User Interfaces](chapters/chapter8.md)
 - [Chapter 9: Developing Business Logic with Codeunits](chapters/chapter9.md)
 - [Chapter 10: Reports and Data Analysis](chapters/chapter10.md)
 - [Chapter 11: Extensions and Customizations](chapters/chapter11.md)
 - [Chapter 12: Integration with Other Systems](chapters/chapter12.md)
+
+### Part IV: Best Practices and Optimization
 - [Chapter 13: Performance Optimization](chapters/chapter13.md)
 - [Chapter 14: Testing and Debugging](chapters/chapter14.md)
 - [Chapter 15: Security and Compliance](chapters/chapter15.md)
+- 
+### Part V: Real-World Applications
 - [Chapter 16: ERP Case Studies and Examples](chapters/chapter16.md)
 - [Chapter 17: Advanced AL Features](chapters/chapter17.md)
 - [Chapter 18: Contributing to the AL Community](chapters/chapter18.md)
+
+### Part VI: Appendices
 - [Appendix A: AL Syntax Reference](chapters/appendixa.md)
 - [Appendix B: Troubleshooting and FAQs](chapters/appendixb.md)
 - [Appendix C: Resources and Further Reading](chapters/appendixc.md)

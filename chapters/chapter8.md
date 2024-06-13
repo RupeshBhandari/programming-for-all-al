@@ -31,6 +31,7 @@ page 50100 CustomerCard
     }
 }
 ```
+
 ## 8.2 Creating and Customizing Pages
 Creating a page involves defining its layout and specifying the source table. Customization includes adding fields, groups, and actions to enhance functionality.
 

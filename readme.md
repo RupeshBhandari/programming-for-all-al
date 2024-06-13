@@ -22,9 +22,9 @@ Welcome to "Programming for All: AL Edition" your comprehensive guide to masteri
 - [ERP Case Studies and Examples](chapters/chapter16.md)
 - [Advanced AL Features](chapters/chapter17.md)
 - [Contributing to the AL Community](chapters/chapter18.md)
-- [AL Syntax Reference](chapters/appendix-a.md)
-- [Troubleshooting and FAQs](chapters/appendix-b.md)
-- [Resources and Further Reading](chapters/appendix-c.md)
+- [AL Syntax Reference](chapters/appendixa.md)
+- [Troubleshooting and FAQs](chapters/appendixb.md)
+- [Resources and Further Reading](chapters/appendixc.md)
 
 ## About This Guide
 

@@ -26,7 +26,7 @@ Welcome to "Programming for All: AL Edition" your comprehensive guide to masteri
 - [Chapter 13: Performance Optimization](chapters/chapter13.md)
 - [Chapter 14: Testing and Debugging](chapters/chapter14.md)
 - [Chapter 15: Security and Compliance](chapters/chapter15.md)
-- 
+
 ### Part V: Real-World Applications
 - [Chapter 16: ERP Case Studies and Examples](chapters/chapter16.md)
 - [Chapter 17: Advanced AL Features](chapters/chapter17.md)
